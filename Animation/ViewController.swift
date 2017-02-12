@@ -37,7 +37,6 @@ class ViewController: UIViewController {
         move.repeatCount = Float.infinity
         bar.add(move, forKey: nil)
         
-        
         let replecate = CAReplicatorLayer()
     
         replecate.addSublayer(bar)
